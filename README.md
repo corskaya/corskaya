@@ -19,3 +19,9 @@ Previously, I have developed various applications using HTML, CSS, JavaScript, T
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png' alt='bootstrap' width='29' height='25'>](https://getbootstrap.com/) &nbsp;
 [<img src='https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png' alt='csharp' width='25' height='25'>](https://docs.microsoft.com/en-us/dotnet/csharp/) &nbsp;
 [<img src='https://docs.microsoft.com/dotnet/media/dotnet-logo.png' alt='dot-net' width='25' height='25'>](https://docs.microsoft.com/en-us/dotnet/)
+
+<br />
+
+<a href="https://github.com/corskaya?tab=repositories">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=corskaya&theme=dark&show_icons=true" />
+</a>
