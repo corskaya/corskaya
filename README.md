@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Çağrı, from Turkey.
+## Hi there 👋 I'm Çağrı.
 
 I graduated from Istanbul University, Electrical and Electronics Engineering Department in September 2021. <br />
 I have been working on web programming for about 1.5 years and my goal is to become a Full-Stack Developer. <br />
