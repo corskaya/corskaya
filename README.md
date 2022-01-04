@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Çağrı.
 
-+ 🌱 I'm currently learning .Net Core
++ 🌱 I'm currently learning **.Net Core**
 + 💬 Ask me about **JavaScript, CSS and React**
 + 📫 How to reach me [cagriorskaya@hotmail.com](mailto:cagriorskaya@hotmail.com)
 + ⚡ Fun fact **I make guitar videos for** [Youtube](https://www.youtube.com/c/cagriorskaya) 
