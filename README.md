@@ -1,16 +1,17 @@
 ## Hi there 👋 I'm Çağrı.
 
-I graduated from Istanbul University, Electrical and Electronics Engineering Department in September 2021. <br />
-I have been working on web programming for about 1.5 years and my goal is to become a Full-Stack Developer. <br />
-Previously, I have developed various applications using HTML, CSS, JavaScript, TypeScript languages and frameworks like React, Angular and Bootstrap on the front end part. On the back end part, I am at the stage of learning Node.js and .Net technologies right now. 
++ 🌱 I'm currently learning .Net Core
++ 💬 Ask me about **JavaScript, CSS and React**
++ 📫 How to reach me [cagriorskaya@hotmail.com](mailto:cagriorskaya@hotmail.com)
++ ⚡ Fun fact **I make guitar videos for** [Youtube](https://www.youtube.com/c/cagriorskaya) 
 
 ### Connect with me:
 
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png' alt='linkedin' width='25' height='25'>](https://www.linkedin.com/in/corskaya/) &nbsp;
-[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/768px-Mail_%28iOS%29.svg.png' alt='email' width='25' height='25'>]( mailto:cagriorskaya@hotmail.com) &nbsp;
+[<img src='https://1.bp.blogspot.com/-ULT9oDhqr24/XJYCrttOEpI/AAAAAAAAJYE/inXHXlzblBI3SbcGpiUj4TMNj-E8uPlaQCK4BGAYYCw/s1600/logo%2Bhackerrank%2Bicon.png' alt='hackerrank' width='25' height='25'>]( https://www.hackerrank.com/cagriorskaya) &nbsp;
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png' alt='instagram' width='25' height='25'>](https://www.instagram.com/orskayacagri/)
 
-### Languages and Tools:
+### Technologies:
 
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png' alt='javascript' width='25' height='25'>](https://developer.mozilla.org/en-US/docs/Web/JavaScript?retiredLocale) &nbsp;
 [<img src='https://miro.medium.com/max/816/1*TpbxEQy4ckB-g31PwUQPlg.png' alt='typescript' width='25' height='25'>](https://www.typescriptlang.org/) &nbsp;
