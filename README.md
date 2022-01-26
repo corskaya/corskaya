@@ -7,19 +7,23 @@
 
 ### Connect with me:
 
-[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png' alt='linkedin' width='25' height='25'>](https://www.linkedin.com/in/corskaya/) &nbsp;
-[<img src='https://1.bp.blogspot.com/-ULT9oDhqr24/XJYCrttOEpI/AAAAAAAAJYE/inXHXlzblBI3SbcGpiUj4TMNj-E8uPlaQCK4BGAYYCw/s1600/logo%2Bhackerrank%2Bicon.png' alt='hackerrank' width='25' height='25'>]( https://www.hackerrank.com/cagriorskaya) &nbsp;
-[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png' alt='instagram' width='25' height='25'>](https://www.instagram.com/orskayacagri/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cagriorskaya/)](https://www.linkedin.com/in/cagriorskaya/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/orskayacagri/)](https://www.instagram.com/orskayacagri/)
+[![HackerRank Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/cagriorskaya)](https://www.hackerrank.com/cagriorskaya)
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-f89f1b?style=flat&logo=LeetCode&logoColor=white&link=https://leetcode.com/cagriorskaya/)](https://leetcode.com/cagriorskaya/)
 
 ### Technologies:
 
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png' alt='html' width='25' height='25'>](https://developer.mozilla.org/en-US/docs/Web/HTML?retiredLocale) &nbsp;
+[<img src='https://www.seekpng.com/png/full/141-1415372_css3-icon-png.png' alt='css' width='23' height='25'>](https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale) &nbsp;
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png' alt='javascript' width='25' height='25'>](https://developer.mozilla.org/en-US/docs/Web/JavaScript?retiredLocale) &nbsp;
 [<img src='https://miro.medium.com/max/816/1*TpbxEQy4ckB-g31PwUQPlg.png' alt='typescript' width='25' height='25'>](https://www.typescriptlang.org/) &nbsp;
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png' alt='react' width='28' height='25'>](https://reactjs.org/) &nbsp;
 [<img src='https://upload.wikimedia.org/wikipedia/commons/5/50/Angular-logo.png' alt='angular' width='25' height='25'>](https://angular.io/) &nbsp;
-[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png' alt='bootstrap' width='29' height='25'>](https://getbootstrap.com/) &nbsp;
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png' alt='bootstrap' width='28' height='25'>](https://getbootstrap.com/) &nbsp;
 [<img src='https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png' alt='csharp' width='25' height='25'>](https://docs.microsoft.com/en-us/dotnet/csharp/) &nbsp;
-[<img src='https://docs.microsoft.com/dotnet/media/dotnet-logo.png' alt='dot-net' width='25' height='25'>](https://docs.microsoft.com/en-us/dotnet/)
+[<img src='https://docs.microsoft.com/dotnet/media/dotnet-logo.png' alt='dot-net' width='25' height='25'>](https://docs.microsoft.com/en-us/dotnet/) &nbsp;
+[<img src='https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png' alt='git' width='25' height='25'>](https://git-scm.com/) 
 
 <br />
 
