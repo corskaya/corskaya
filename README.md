@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Çağrı.
 
-+ 🌱 I'm currently learning **.Net Core**
++ 🌱 I'm currently learning **Node.js**
 + 💬 Ask me about **JavaScript, CSS and React**
 + 📫 How to reach me [cagriorskaya@hotmail.com](mailto:cagriorskaya@hotmail.com)
 + ⚡ Fun fact **I make guitar videos for** [Youtube](https://www.youtube.com/c/cagriorskaya) 
@@ -21,8 +21,7 @@
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png' alt='react' width='28' height='25'>](https://reactjs.org/) &nbsp;
 [<img src='https://upload.wikimedia.org/wikipedia/commons/5/50/Angular-logo.png' alt='angular' width='25' height='25'>](https://angular.io/) &nbsp;
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png' alt='bootstrap' width='28' height='25'>](https://getbootstrap.com/) &nbsp;
-[<img src='https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png' alt='csharp' width='25' height='25'>](https://docs.microsoft.com/en-us/dotnet/csharp/) &nbsp;
-[<img src='https://docs.microsoft.com/dotnet/media/dotnet-logo.png' alt='dot-net' width='25' height='25'>](https://docs.microsoft.com/en-us/dotnet/) &nbsp;
+[<img src='https://www.pikpng.com/pngl/b/430-4309640_js-logo-nodejs-logo-clipart.png' alt='node-js' width='23' height='25'>](https://nodejs.org/en/docs/) &nbsp;
 [<img src='https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png' alt='git' width='25' height='25'>](https://git-scm.com/) 
 
 <br />
